@@ -6,7 +6,7 @@
 //getElementByClassName
 // var titles = document.getElementsByClassName('inner_card');
 var main = document.querySelector('.inner_card');
-main.textContent = ' Valencia and Bilbao!';
+main.textContent = ' Valencia!';
 //console.log(main);
 // var paraph = (document.getElementsByTagName('p').innerHTML = 'Get to Know');
 // function greet(name, favColor) {
